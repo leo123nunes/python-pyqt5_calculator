@@ -1,2 +1,2 @@
-# python-pyqt5_calculator
-A calculator made using PyQt5.
+# Calculator
+A basic calculator made using PyQt5.
